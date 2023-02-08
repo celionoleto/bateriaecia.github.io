@@ -416,3 +416,33 @@ footer .detail {
 
 
 }
+
+
+@media(max-width: 750px) {
+
+    /* skills */
+
+   #skills-section {
+       margin-top: -35px;
+       width: 90%;
+   }
+
+   #skills-section .container {
+       flex-direction: column;
+   }
+
+   .skills-container h3, .skills-container .subtitle {
+       font-size: 1.3rem;
+   }
+
+   .skills-container {
+       padding: 25px;
+   }
+
+   .skills-container.central {
+       border-top: 1px solid #ccc;
+       border-bottom: 1px solid #ccc;
+   }
+   
+   
+}
