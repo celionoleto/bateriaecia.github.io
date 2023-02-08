@@ -443,6 +443,16 @@ footer .detail {
        border-top: 1px solid #ccc;
        border-bottom: 1px solid #ccc;
    }
+
+   .job-box {
+    flex: 1 1 200px;
+    margin-left: 25px;
+    margin-right: 25px;
+    height: 200px;
+    background-size: cover;
+    border-right: 2px solid #ED1E24;
+    border-bottom: 2px solid #ED1E24;
+}
    
    
 }
