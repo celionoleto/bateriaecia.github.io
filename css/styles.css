@@ -8,6 +8,7 @@ body, p, h1, h2, h3, h4, input, textarea {
 }*/
 
 /*Navbar*/
+
 #navbar {
     background-color: #fffb03;
     color: #ED1E24;
@@ -77,6 +78,7 @@ body, p, h1, h2, h3, h4, input, textarea {
     border-bottom: 1px solid #ED1E24;
         
 }
+
 
 .zap {
     display: flex;
