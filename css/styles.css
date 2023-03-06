@@ -284,7 +284,7 @@ footer form {
     margin-right: auto;
 }
 
-footer input, footer textarea {
+footer input, button, footer textarea {
     border: none;
     padding: 15px;
     box-sizing: border-box;
