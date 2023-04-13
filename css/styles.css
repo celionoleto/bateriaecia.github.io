@@ -10,8 +10,9 @@ body, p, h1, h2, h3, h4, input, textarea {
 /*Navbar*/
 
 #navbar {
-    background-color: #fffb03;
-    color: #ED1E24;
+    background-color: #093765;
+    
+    color:#72F521;
     padding: 0 10px;
     height: 60px;
 
@@ -68,7 +69,7 @@ body, p, h1, h2, h3, h4, input, textarea {
 #navbar-list li a {
     text-decoration: none;
     text-align:left;
-    color: #ED1E24;
+    color: #72F521;
     font-size: 20px; 
      
     
@@ -308,7 +309,7 @@ footer a:hover {
 
 footer .detail {
     font-weight: bold;
-    color: #fff;
+    
    
 }
  
